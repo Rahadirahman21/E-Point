@@ -42,7 +42,7 @@
     <div class="container">
         <div class="d-flex justify-content-between mb-4">
             <div>
-                <a href="form_siswa.html" class="btn btn-primary">Tambah Siswa</a>
+                <a href="   form_siswa.html" class="btn btn-primary">Tambah Siswa</a>
             </div>
             <div>
                 <form action="" method="get">
